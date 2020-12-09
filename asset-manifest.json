@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/picsum-generator-site/static/css/main.b9f7918b.chunk.css",
+    "main.js": "/picsum-generator-site/static/js/main.21c6ff63.chunk.js",
+    "main.js.map": "/picsum-generator-site/static/js/main.21c6ff63.chunk.js.map",
+    "runtime-main.js": "/picsum-generator-site/static/js/runtime-main.3252cf18.js",
+    "runtime-main.js.map": "/picsum-generator-site/static/js/runtime-main.3252cf18.js.map",
+    "static/js/2.a7601f0c.chunk.js": "/picsum-generator-site/static/js/2.a7601f0c.chunk.js",
+    "static/js/2.a7601f0c.chunk.js.map": "/picsum-generator-site/static/js/2.a7601f0c.chunk.js.map",
+    "index.html": "/picsum-generator-site/index.html",
+    "precache-manifest.d954be41998beaf2e60a5beab6acb998.js": "/picsum-generator-site/precache-manifest.d954be41998beaf2e60a5beab6acb998.js",
+    "service-worker.js": "/picsum-generator-site/service-worker.js",
+    "static/css/main.b9f7918b.chunk.css.map": "/picsum-generator-site/static/css/main.b9f7918b.chunk.css.map",
+    "static/js/2.a7601f0c.chunk.js.LICENSE.txt": "/picsum-generator-site/static/js/2.a7601f0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3252cf18.js",
+    "static/js/2.a7601f0c.chunk.js",
+    "static/css/main.b9f7918b.chunk.css",
+    "static/js/main.21c6ff63.chunk.js"
+  ]
+}
